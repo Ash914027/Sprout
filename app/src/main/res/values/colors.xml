@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sprout_green">#4CAF7D</color>
+    <color name="sprout_green_dark">#2E7D5B</color>
+    <color name="sprout_cream">#FFF8EC</color>
+    <color name="sprout_yellow">#FFC93C</color>
+    <color name="sprout_orange">#FF8A5B</color>
+    <color name="sprout_blue">#4DA8DA</color>
+    <color name="sprout_purple">#9B6BCC</color>
+    <color name="sprout_pink">#FF6F91</color>
+    <color name="sprout_red">#FF5C5C</color>
+    <color name="sprout_white">#FFFFFF</color>
+    <color name="sprout_text">#33424B</color>
+    <color name="sprout_text_light">#6E7E85</color>
+
+    <color name="palette_red">#FF5C5C</color>
+    <color name="palette_orange">#FF8A5B</color>
+    <color name="palette_yellow">#FFC93C</color>
+    <color name="palette_green">#4CAF7D</color>
+    <color name="palette_blue">#4DA8DA</color>
+    <color name="palette_purple">#9B6BCC</color>
+</resources>

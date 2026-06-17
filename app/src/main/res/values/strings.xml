@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sprout</string>
+    <string name="tagline">Little minds. Big adventures. Every day.</string>
+
+    <string name="home_doodle_title">Magic Doodle</string>
+    <string name="home_doodle_sub">Draw, swirl, sparkle!</string>
+    <string name="home_photo_title">Photo Hunt</string>
+    <string name="home_photo_sub">Find 5 things at home!</string>
+
+    <string name="doodle_clear">Clear</string>
+    <string name="doodle_back">Back</string>
+    <string name="doodle_sparkle">Sparkle Mode</string>
+    <string name="doodle_time_up_title">Your masterpiece is done!</string>
+    <string name="doodle_time_up_body">You earned a sticker for drawing today. See you tomorrow, artist!</string>
+
+    <string name="hunt_back">Back</string>
+    <string name="hunt_capture">Snap it!</string>
+    <string name="hunt_prompt_prefix">Can you find a…</string>
+    <string name="hunt_complete_title">Explorer Badge unlocked!</string>
+    <string name="hunt_complete_body">You found 5 things at home. Amazing exploring!</string>
+    <string name="hunt_camera_permission">Sprout needs the camera to play Photo Hunt. Please allow camera access.</string>
+    <string name="hunt_grant_permission">Allow Camera</string>
+
+    <string name="reward_continue">Yay!</string>
+</resources>

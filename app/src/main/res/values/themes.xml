@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Sprout" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sprout_green</item>
+        <item name="colorPrimaryVariant">@color/sprout_green_dark</item>
+        <item name="colorOnPrimary">@color/sprout_white</item>
+        <item name="colorSecondary">@color/sprout_yellow</item>
+        <item name="android:statusBarColor">@color/sprout_green_dark</item>
+        <item name="android:windowBackground">@color/sprout_cream</item>
+    </style>
+
+    <style name="Theme.Sprout.Dialog" parent="Theme.Material3.DayNight.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

@@ -1,0 +1,28 @@
+# Task 3: Diagnosing a Drop-off Problem
+
+**"Kids leave after 2 minutes." No data, no designer, one week.**
+
+**What I'd investigate first**
+- Watch 5–8 real sessions (screen recordings) before touching the
+product — at this age, drop-off is often a parent intervening or a
+sibling grabbing the tablet, not the app itself.
+- Add lightweight event logging today: screen entered/exited, taps per
+screen, time-to-first-interaction. Two minutes is roughly one activity
+length, so I'd check whether kids leave mid-activity (a content problem)
+or between activities (a transition problem).
+- Ask 3–4 parents what happens at minute two — cheapest, fastest signal
+available.
+
+**What I'd build or test**
+- A "wind-down → closure ritual" (like Magic Doodle's ending) on whichever
+screen has the worst exit rate, since abrupt endings are a common, fixable
+drop-off cause.
+- One A/B: current flow vs. a version with a satisfying ending at ~90
+seconds, to see if an earlier closure point actually increases completed
+sessions.
+
+**How I'd measure success**
+- % of sessions reaching a defined natural ending, not just elapsed time.
+- Session length distribution shifting right, not just the average.
+- Next-day return rate — engagement that doesn't bring kids back isn't
+real engagement.
