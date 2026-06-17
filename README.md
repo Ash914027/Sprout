@@ -18,6 +18,15 @@ home screen linking to each), and share a reusable `RewardDialogFragment`
 effects in `res/raw`, generated locally — no external audio assets, so the
 app works fully offline).
 
+## task2 mini interacttive screen screenshots
+<img width="385" height="830" alt="Screenshot 2026-06-17 115336" src="https://github.com/user-attachments/assets/0180682e-ed83-4768-881f-c9021b217ec9" />
+<img width="382" height="780" alt="Screenshot 2026-06-17 115416" src="https://github.com/user-attachments/assets/0c26cf63-60b3-433e-b696-b3d1076a4abe" />
+<img width="377" height="830" alt="Screenshot 2026-06-17 115450" src="https://github.com/user-attachments/assets/f221b6b4-2dec-4363-a945-6c26eebcd45c" />
+<img width="377" height="821" alt="Screenshot 2026-06-17 115523" src="https://github.com/user-attachments/assets/6107beb7-ec26-4580-93b9-a2a09d3c511e" />
+<img width="412" height="811" alt="Screenshot 2026-06-17 115537" src="https://github.com/user-attachments/assets/1abba8c3-1e67-466d-9fa6-0d80b44c6ea2" />
+<img width="383" height="793" alt="Screenshot 2026-06-17 115606" src="https://github.com/user-attachments/assets/fcf2b99b-dacd-4834-9865-c17d9c2129fa" />
+
+
 ## How to open and run it
 
 1. Open Android Studio (Iguana/Koala or newer recommended) → **Open** →
