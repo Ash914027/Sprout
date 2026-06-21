@@ -1,4 +1,4 @@
-# Sprout — take-home assignment
+# Sprout — 3-8 year old learning app
 
 Native Android app, written in **Kotlin + XML** (no Flutter/React Native),
 covering all four tasks in the brief.
