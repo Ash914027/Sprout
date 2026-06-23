@@ -16,7 +16,7 @@ Both interactive screens live in one combined app (`MainActivity` is a small
 home screen linking to each), and share a reusable `RewardDialogFragment`
 (confetti + chime + sticker) and `SoundBoard` (tiny synthesized sound
 effects in `res/raw`, generated locally — no external audio assets, so the
-app works fully offline).
+app works fully offline)
 
 ## task2 mini interacttive screen screenshots
 <img width="385" height="830" alt="Screenshot 2026-06-17 115336" src="https://github.com/user-attachments/assets/0180682e-ed83-4768-881f-c9021b217ec9" />
