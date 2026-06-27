@@ -59,4 +59,4 @@ the loop frustration-free while still teaching object names.
 (no streamed audio), and the ML Kit labeler uses the bundled (non-Play
 Services) model, so neither screen requires the device to be online at
 runtime — appropriate for a kids' app that might run in a car, a waiting
-room, etc.
+room, etc
